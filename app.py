@@ -7,7 +7,7 @@ from io import BytesIO
 st.set_page_config(page_title="Smart Resume Rewriter", layout="wide")
 st.title("🧠 Resume Rewriter")
 
-API_KEY = "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"
+API_KEY = "your api key"
 MODEL = "mistralai/mistral-7b-instruct:free"
 KEYWORDS = ["summary", "experience", "skills", "projects", "education"]
 
